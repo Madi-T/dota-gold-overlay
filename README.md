@@ -28,5 +28,22 @@ git clone https://github.com/Madi-T/dota-gold-overlay.git
 
 ```
 
-Overlay shows GPM, Gold & timestamp.
+Install dependancies:
 
+```sh
+
+npm install
+
+```
+
+Run script to build the project:
+
+```sh
+
+npm run build:overwolf
+
+```
+This application is created for the game Dota 2, and displays gold indicators from this game.
+To see data in other games, you need to change the game ID. 
+Overlay shows GPM, Gold & timestamp.
+ 
